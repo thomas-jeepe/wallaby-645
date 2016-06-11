@@ -1,0 +1,19 @@
+.infoGrid {
+	display: flex;
+	flex-flow: column;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 8px;
+	border-bottom: solid 1px #e0e0e0;
+	min-height: 100px;
+}
+
+.gridText {
+  line-height: 16px;
+	font-size: 16px;
+}
+
+.gridHeader {
+	margin-bottom: 8px;
+}

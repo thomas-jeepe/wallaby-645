@@ -1,0 +1,32 @@
+{
+  "name": "wallaby-645",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-jeepe/wallaby-645.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomas-jeepe/wallaby-645/issues"
+  },
+  "homepage": "https://github.com/thomas-jeepe/wallaby-645#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "enzyme": "^2.3.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "material-ui": "^0.15.0",
+    "mobx": "^2.2.2",
+    "mobx-react": "^3.3.1",
+    "mocha": "^2.5.3",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "wallaby-webpack": "0.0.22",
+    "webpack": "^1.13.1"
+  }
+}
